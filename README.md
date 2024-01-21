@@ -17,31 +17,57 @@ java HuffMan_Coding
 Here's an example of the program output:
 
 Type something you would like to encode...
+
 How you doing
+
 Character: ' ' Frequency: 15.384616
+
 Character: 'd' Frequency: 7.692308
+
 Character: 'u' Frequency: 7.692308
+
 Character: 'w' Frequency: 7.692308
+
 Character: 'g' Frequency: 7.692308
+
 Character: 'H' Frequency: 7.692308
+
 Character: 'y' Frequency: 7.692308
+
 Character: 'i' Frequency: 7.692308
+
 Character: 'n' Frequency: 7.692308
+
 Character: 'o' Frequency: 23.076923
+
 encoded is: 100
+
 d encoded is: 1100
+
 u encoded is: 001
+
 w encoded is: 1101
+
 g encoded is: 000
+
 H encoded is: 1011
+
 y encoded is: 1010
+
 i encoded is: 1110
+
 n encoded is: 1111
+
 o encoded is: 01
+
 Huffman Encoded String: 101101110110010100100110011000111101111000
+
 Decoded String: How you doing
+
 Original Size (bits): 104
+
 Encoded Size (bits): 42
+
 Compression Ratio: 2.4761904761904763
 
 ## Implementation
